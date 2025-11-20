@@ -1,4 +1,4 @@
-# THE-HAND
+# Hackers-Gauntlet
 
 Glove-mounted multi-tool inspired by Flipper-style features: gesture-triggered actions, radios (IR, sub-GHz), NFC/LF, HID, and a removable USB key for config/logs.
 
